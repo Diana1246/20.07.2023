@@ -1,4 +1,4 @@
-6529
+6530
 102C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\csso\node_modules\css-tree\lib\syntax\node\Nth.js133343364240132602 0
 128C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\package.json133343364220346876 0
 73C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\svgo\lib\svgo\coa.js133343364224885418 0
@@ -11,7 +11,7 @@
 102C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@parcel\package-manager\src\NodePackageManager.js133343364227034185 0
 61C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\posthtml133343364220100536 1
 98C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@swc\helpers\esm\_interop_require_wildcard.js133343364239321657 0
-50C:\Users\HP\Documents\GitHub\20.07.2023\index.html133343348212944007 0
+50C:\Users\HP\Documents\GitHub\20.07.2023\index.html133343385710088777 0
 65C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\svgo\plugins133343364234549141 1
 98C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\caniuse-lite\data\features\referrer-policy.js133343364265613656 0
 75C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\dom-serializer\lib\esm133343364224517088 1
@@ -54,7 +54,7 @@
 136C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure\prepare\processSelector.js133343364230164810 0
 100C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@parcel\reporter-dev-server\src\serverErrors.js133343364221421464 0
 99C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\handlebars\dist\cjs\handlebars\helpers\each.js133343356245007105 0
-48C:\Users\HP\Documents\GitHub\20.07.2023\index.js133343354251485566 0
+48C:\Users\HP\Documents\GitHub\20.07.2023\index.js133343495506077692 0
 87C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\handlebars\lib\handlebars\utils.js133343356248199533 0
 87C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\type-fest\source\set-required.d.ts133343364228671893 0
 49C:\Users\HP\Documents\GitHub\20.07.2023\menu.json133343326459483444 0
@@ -66,7 +66,15 @@
 57C:\Users\HP\Documents\GitHub\20.07.2023\package-lock.json133343366664403235 0
 62C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@mischnic133343364192799239 1
 107C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\csso\node_modules\css-tree\lib\syntax\scope\default.js133343364238711781 0
-52C:\Users\HP\Documents\GitHub\20.07.2023\package.json133343366663673737 0
+52C:\Users\HP\Documents\GitHub\20.07.2023\package.json133343497395028913 0
+83C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\detect-libc\bin\detect-libc.js133343364219935453 0
+75C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\uglify-js\package.json133343356244891976 0
+85C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@parcel\events\lib\Disposable.js133343364217328281 0
+127C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule\supports.js133343364237069660 0
+94C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\handlebars\dist\amd\handlebars\decorators133343356246535858 1
+85C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@swc\helpers\esm\_ts_decorate.js133343364240834237 0
+49C:\Users\HP\Documents\GitHub\20.07.2023\style.css133343386018408375 0
+89C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\css-tree\lib\syntax\config\parser.js133343364240685543 0
 79C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\svgo\plugins\removeDesc.js133343364229764114 0
 71C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\neo-async\every.js133343356244791899 0
 49C:\Users\HP\Documents\GitHub\20.07.2023\templates133343338971282345 1
@@ -266,12 +274,6 @@
 82C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\domhandler\lib\index.d.ts.map133343364219886602 0
 75C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\update-browserslist-db133343364221164389 1
 70C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\htmlnano\index.js133343364224040896 0
-82C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\cosmiconfig\dist\index.js.map133343364227618132 0
-113C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\data\patch.json133343364237730304 0
-106C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\csso\node_modules\css-tree\lib\syntax\node\AnPlusB.js133343364237402813 0
-113C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\csso\node_modules\css-tree\cjs\utils\create-custom-error.cjs133343364225784193 0
-84C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\caniuse-lite\data\regions\FI.js133343364248997921 0
-65C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\import-fresh133343364219255165 1
 63C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\domhandler133343364221082520 1
 73C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\globals\globals.json133343364218226790 0
 91C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\caniuse-lite\data\features\css-sel3.js133343364240550447 0
@@ -341,6 +343,12 @@
 91C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\caniuse-lite\data\features\svg-smil.js133343364266937334 0
 93C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@swc\helpers\_\_ts_decorate\package.json133343364247641103 0
 63C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\fill-range133343364218425942 1
+82C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\cosmiconfig\dist\index.js.map133343364227618132 0
+113C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\data\patch.json133343364237730304 0
+106C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\csso\node_modules\css-tree\lib\syntax\node\AnPlusB.js133343364237402813 0
+113C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\csso\node_modules\css-tree\cjs\utils\create-custom-error.cjs133343364225784193 0
+84C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\caniuse-lite\data\regions\FI.js133343364248997921 0
+65C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\import-fresh133343364219255165 1
 99C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\csso\node_modules\css-tree\lib\syntax\function133343364241210849 1
 64C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\is-arrayish133343364221164389 1
 103C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\caniuse-lite\data\features\css-deviceadaptation.js133343364238424985 0
@@ -898,11 +906,6 @@
 71C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\timsort\.npmignore133343364216887188 0
 125C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@swc\helpers\_\_class_check_private_static_field_descriptor\package.json133343364242055169 0
 70C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\uglify-js\LICENSE133343356243428714 0
-83C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\detect-libc\bin\detect-libc.js133343364219935453 0
-75C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\uglify-js\package.json133343356244891976 0
-85C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@parcel\events\lib\Disposable.js133343364217328281 0
-127C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule\supports.js133343364237069660 0
-94C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\handlebars\dist\amd\handlebars\decorators133343356246535858 1
 85C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\svgo\plugins\removeEmptyAttrs.js133343364230426130 0
 103C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\csso\node_modules\css-tree\cjs\generator\index.cjs133343364232213049 0
 72C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\term-size\readme.md133343364222073381 0
@@ -1104,7 +1107,6 @@
 84C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\caniuse-lite\data\regions\BN.js133343364233811912 0
 66C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\tslib\modules133343364223275591 1
 84C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\caniuse-lite\data\regions\CA.js133343364235274566 0
-68C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\reusify\LICENSE133343366661412648 0
 79C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@parcel\utils\package.json133343364234961227 0
 71C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\tslib\package.json133343364221245132 0
 77C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\neo-async\reduceRight.js133343356245900658 0
@@ -1570,6 +1572,7 @@
 71C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\fill-range\LICENSE133343364217784268 0
 78C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\css-select\lib\compile.js133343364221677988 0
 71C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\reusify\benchmarks133343366661834097 1
+68C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\reusify\LICENSE133343366661412648 0
 88C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@babel\highlight\node_modules\chalk133343364220785315 1
 135C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\aliases.js133343364217499871 0
 65C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\js-yaml\dist133343364229210134 1
@@ -2298,9 +2301,9 @@
 85C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@parcel\packager-js\src\index.js133343364224548677 0
 90C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@swc\helpers\cjs\_super_prop_base.cjs133343364233716691 0
 71C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\minimist\.eslintrc133343356243392074 0
-66C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\mdn-data\l10n133343364221743489 1
 73C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\json5\lib\index.d.ts133343364225403848 0
 68C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\minimist\.nycrc133343356243455756 0
+66C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\mdn-data\l10n133343364221743489 1
 61C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\csso\lib133343364235770138 1
 89C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@parcel\source-map\dist\SourceMap.js133343364224497239 0
 106C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\css-select\node_modules\dom-serializer\lib\index.d.ts133343364224885418 0
@@ -3154,9 +3157,9 @@
 72C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\fast-glob\README.md133343366662680425 0
 73C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\caniuse-lite\LICENSE133343364216346160 0
 80C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\fast-glob\out\settings.d.ts133343366663214716 0
-78C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\fast-glob\out\settings.js133343366662416365 0
-86C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@swc\helpers\_\index\package.json133343364248224595 0
 85C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\css-tree\cjs\syntax\node\Nth.cjs133343364235450209 0
+86C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@swc\helpers\_\index\package.json133343364248224595 0
+78C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\fast-glob\out\settings.js133343366662416365 0
 72C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\fast-glob\out\types133343366662936275 1
 72C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\fast-glob\out\utils133343366663283645 1
 144C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts.map133343364227034185 0
@@ -3899,8 +3902,6 @@
 84C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\caniuse-lite\data\regions\ES.js133343364245212588 0
 88C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\css-tree\lib\syntax\config\lexer.js133343364240105279 0
 86C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\css-tree\lib\syntax\config\mix.js133343364240352972 0
-85C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@swc\helpers\esm\_ts_decorate.js133343364240834237 0
-89C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\css-tree\lib\syntax\config\parser.js133343364240685543 0
 89C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\css-tree\lib\syntax\config\walker.js133343364241630290 0
 82C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\@parcel\cache\src\IDBCache.js133343364221245132 0
 89C:\Users\HP\Documents\GitHub\20.07.2023\node_modules\css-tree\lib\syntax\atrule\import.js133343364239604521 0
